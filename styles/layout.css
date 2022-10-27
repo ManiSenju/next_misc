@@ -1,0 +1,19 @@
+.layout-header {
+    font-size: 30px;
+    text-align: center;
+    color: aquamarine;
+    padding: 30px;
+}
+
+.layout-footer {
+    font-size: 30px;
+    text-align: center;
+    color: burlywood;
+    padding: 30px;
+}
+
+.content {
+    font-size: 30px;
+    text-align: center;
+    color: darkgreen;
+}
